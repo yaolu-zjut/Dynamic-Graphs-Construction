@@ -54,9 +54,9 @@ def directly_draw_undirected_weighted_network(edges_list, whole_label, target, l
     for i in range(len(color_list)):
         nx.draw_networkx_nodes(undirected_weighted_network, pos, nodelist=color_list[i], node_color=color[i], node_size=20)
 
-    # whole_label = whole_label.cpu().numpy()
-    # for i in range(args.batch_size):
-    #     undirected_weighted_network.nodes[i]['label'] = whole_label[i]
+    whole_label = whole_label.cpu().numpy()
+    for i in range(args.batch_size):
+        undirected_weighted_network.nodes[i]['label'] = whole_label[i]
 
     # draw colorful edges
     edges = nx.draw_networkx_edges(undirected_weighted_network, pos=pos, arrowstyle='->', edge_color=weights, edge_cmap=plt.cm.Oranges)
