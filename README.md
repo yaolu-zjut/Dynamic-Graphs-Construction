@@ -11,3 +11,7 @@ This figure indicates that modularity provides a quantifiable interpretation per
 
 The modularity curves of various backbones:
 ![image](https://github.com/yaolu-zjut/Dynamic-Graphs-Construction/blob/main/imgs/modularity.PNG)
+
+# Usage
+To calculate the modularity:
+'python get_embedding_cifar.py --gpu 0 --arch cResNet18 --set cifar10 --num_classes 10 --batch_size 500 --pretrained'
