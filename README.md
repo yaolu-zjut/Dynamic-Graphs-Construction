@@ -6,6 +6,8 @@ Official Codes for Understanding the Dynamics of DNNs Using Graph Modularity (EC
 This figure is the pipeline for the dynamic graphs construction and the application scenarios of the modularity metric.
 ![image](https://github.com/yaolu-zjut/Dynamic-Graphs-Construction/blob/main/imgs/pipeline.PNG)
 
+This figure indicates that modularity provides a quantifiable interpretation perspective for understanding the dynamics of DNNs.
+![image](https://github.com/yaolu-zjut/Dynamic-Graphs-Construction/blob/main/imgs/pipeline.PNG)
 
-The modularity curves of widely used backbones:
-![image](https://github.com/yaolu-zjut/Dynamic-Graphs-Construction/blob/main/Dynamic%20Graph%20Construction/gif/Modularity.jpg)
+The modularity curves of various backbones:
+![image](https://github.com/yaolu-zjut/Dynamic-Graphs-Construction/blob/main/imgs/modularity.PNG)
