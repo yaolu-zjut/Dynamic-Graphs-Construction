@@ -7,7 +7,7 @@ This figure is the pipeline for the dynamic graphs construction and the applicat
 ![image](https://github.com/yaolu-zjut/Dynamic-Graphs-Construction/blob/main/imgs/pipeline.PNG)
 
 This figure indicates that modularity provides a quantifiable interpretation perspective for understanding the dynamics of DNNs.
-![image](https://github.com/yaolu-zjut/Dynamic-Graphs-Construction/blob/main/imgs/pipeline.PNG)
+![image](https://github.com/yaolu-zjut/Dynamic-Graphs-Construction/blob/main/imgs/tnse.PNG)
 
 The modularity curves of various backbones:
 ![image](https://github.com/yaolu-zjut/Dynamic-Graphs-Construction/blob/main/imgs/modularity.PNG)
