@@ -14,4 +14,6 @@ The modularity curves of various backbones:
 
 # Usage
 To calculate the modularity:
-'python get_embedding_cifar.py --gpu 0 --arch cResNet18 --set cifar10 --num_classes 10 --batch_size 500 --pretrained'
+'''
+python get_embedding_cifar.py --gpu 0 --arch cResNet18 --set cifar10 --num_classes 10 --batch_size 500 --pretrained
+'''
