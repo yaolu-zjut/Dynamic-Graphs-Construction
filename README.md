@@ -17,3 +17,9 @@ To calculate the modularity:
 ```bash
 python get_embedding_cifar.py --gpu 0 --arch cResNet18 --set cifar10 --num_classes 10 --batch_size 500 --pretrained
 ```
+
+# Cite Our Paper
+If you use this code in your research, please cite our paper.
+```bash
+
+```
