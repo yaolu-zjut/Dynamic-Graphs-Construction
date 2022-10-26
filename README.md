@@ -21,5 +21,12 @@ python get_embedding_cifar.py --gpu 0 --arch cResNet18 --set cifar10 --num_class
 # Cite Our Paper
 If you use this code in your research, please cite our paper.
 ```bash
-
+@inproceedings{lu2022understanding,
+  title={Understanding the Dynamics of DNNs Using Graph Modularity},
+  author={Lu, Yao and Yang, Wen and Zhang, Yunzhe and Chen, Zuohui and Chen, Jinyin and Xuan, Qi and Wang, Zhen and Yang, Xiaoniu},
+  booktitle={European Conference on Computer Vision},
+  pages={225--242},
+  year={2022},
+  organization={Springer}
+}
 ```
