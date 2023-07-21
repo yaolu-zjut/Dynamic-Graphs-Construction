@@ -18,7 +18,7 @@ To calculate the modularity:
 python get_embedding_cifar.py --gpu 0 --arch cResNet18 --set cifar10 --num_classes 10 --batch_size 500 --pretrained
 ```
 
-## Thanks for the support
+# Thanks for the support
 [![Stargazers repo roster for @yaolu-zjut/Dynamic-Graphs-Construction](https://reporoster.com/stars/yaolu-zjut/Dynamic-Graphs-Construction)](https://github.com/yaolu-zjut/Dynamic-Graphs-Construction/stargazers)
 
 # Cite Our Paper
